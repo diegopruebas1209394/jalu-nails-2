@@ -134,7 +134,6 @@ self.addEventListener('fetch', evento => {
 });
 
 
-
 //recibimos el nombre del espacio de cache a limpiar y el número de archivos permitido
 function limpiarCache(nombreCache, numeroItems){
     //abrimos el cache

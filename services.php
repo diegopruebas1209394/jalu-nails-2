@@ -4,7 +4,6 @@ error_reporting(0);
 include('includes/dbconnection.php');
 
 
-
   ?>
 <!DOCTYPE html>
 <html lang="en">
